@@ -51,7 +51,7 @@ python setup.py build develop
 
 ```python
 class DatasetCatalog(object):
-    DATA_DIR = "/home/jin/Faster-ILOD/data/VOCdevkit"
+    DATA_DIR = "/home/your_folder/Faster-ILOD/data/VOCdevkit"
 ```
 
 ---
