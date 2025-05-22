@@ -1,6 +1,6 @@
 # Faster ILOD: Incremental Learning for Object Detection (VOC 2007/2012)
 
-This project reproduces the **Faster ILOD** (Peng et al., 2020) algorithm for incremental object detection, using the PASCAL VOC dataset.
+This project reproduces the [**Faster ILOD** (Peng et al., 2020)](https://github.com/CanPeng123/Faster-ILOD) algorithm for incremental object detection, using the PASCAL VOC dataset.
 ![Result Image](assets/demo_e2e_mask_rcnn_X_101_32x8d_FPN_1x.png)
 ---
 
